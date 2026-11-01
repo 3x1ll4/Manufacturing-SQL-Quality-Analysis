@@ -75,3 +75,14 @@ for process improvement.
 - Add more production lines and shifts
 - Build interactive Power BI dashboards
 - Automate recurring quality reports
+
+  ## SQL Analysis Screenshots
+
+### Manufacturing KPI Summary
+![Manufacturing KPI Summary](sql_kpi_summary.png)
+
+### Production Line Quality Comparison
+![Production Line Comparison](sql_production_line_comparison.png)
+
+### Monthly Quality Trends
+![Monthly Quality Trends](sql_monthly_trends.png)
